@@ -1,0 +1,13 @@
+/* Based on Petra Bonfert-Taylor's interactive online C Textbook */ 
+
+#include <stdio.h>
+
+int main(void) {
+  char letter = ""; 
+  printf("Uppercase Converter\n"); 
+  printf("Type in a lowercase letter:"); 
+  scanf("%c",&letter); 
+  printf("The uppercase version of %c is %c", letter, letter - 32); 
+  
+  
+}

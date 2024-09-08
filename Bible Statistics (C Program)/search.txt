@@ -1,0 +1,10 @@
+----------------------------------------------------
+|Title               | Chp.| Vs.  | Words | New/Old |
+----------------------------------------------------
+|John                | 21  | 866  | 18841 | New     |
+|1 John              | 5   | 105  | 2507  | New     |
+|2 John              | 1   | 13   | 302   | New     |
+|3 John              | 1   | 15   | 303   | New     |
+
+Data Source: https://versenotes.org/a-list-of-books-in-the-bible-by-number-of-chapters/
+
